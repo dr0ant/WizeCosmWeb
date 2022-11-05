@@ -1,0 +1,42 @@
+!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <script src="Scripts/jquery-2.0.3.js"></script>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+    <script>
+        function mp_GetData() {
+            $.ajax({
+                type: "POST",
+                url: "Default.aspx/GetData",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                error: function (jqXHR, sStatus, sErrorThrown) {
+                    alert( 'data:  ' + sErrorThrown);
+                    alert( 'Get Data Error:  ' + sStatus);
+                },
+                success: function (data) {
+                    $("#oTable").empty();
+                    var oTable = data.d;
+                    for (i = 0; i <= oTable.Rows.length - 1; i++) {
+                        $("#oTable").append("<tr><td>" + oTable.Rows[i].lTaskID + "</td><td>" + oTable.Rows[i].sDescription + "</td><td>" + new Date(parseInt(oTable.Rows[i].dtStartDate.substr(6))) + "</td><td>" + new Date(parseInt(oTable.Rows[i].dtEndDate.substr(6))) + "</td></tr>");
+                    }
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    <button type="button" onclick="mp_GetData();">Click to Retrieve Data</button>
+    <table id="oTable">
+    </table>
+    <form id="form1" runat="server">
+    <div>
+    </div>
+    </form>
+</body>
+</html>
