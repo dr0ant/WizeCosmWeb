@@ -1,1 +1,191 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T12:14:04.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="p2sVJOA_CeVFCGT-YWVQ" type="github"><diagram name="Page-1" id="Aq9BhjDub_Zb_eFg-ewv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T17:22:13.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Jmk5KBxgWMTv2H13PjFC" version="21.0.2" type="github">
+  <diagram name="Page-1" id="Aq9BhjDub_Zb_eFg-ewv">
+    <mxGraphModel dx="3107" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-1" target="0bGFih33v-Uv6MeVHuMe-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="130" />
+              <mxPoint x="260" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-1" target="0bGFih33v-Uv6MeVHuMe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-1" target="0bGFih33v-Uv6MeVHuMe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-1" target="0bGFih33v-Uv6MeVHuMe-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="140" />
+              <mxPoint x="380" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-1" target="0bGFih33v-Uv6MeVHuMe-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="140" />
+              <mxPoint x="420" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-1" value="Membres de Main Land Cosm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-2" target="0bGFih33v-Uv6MeVHuMe-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-2" value="Cosmer Rang S,SS,SSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-3" value="Cosmer Rang A&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="185" y="555" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-4" value="Cosmer Rang B,C,D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="20" y="700" width="690" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-5" value="Cosmer Rang E,F,G" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1000" width="690" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-6" target="0bGFih33v-Uv6MeVHuMe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-6" value="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-7" target="0bGFih33v-Uv6MeVHuMe-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="320" />
+              <mxPoint x="155" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-7" value="2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-8" target="0bGFih33v-Uv6MeVHuMe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-8" value="3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-9" target="0bGFih33v-Uv6MeVHuMe-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="535" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-9" value="4" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-10" target="0bGFih33v-Uv6MeVHuMe-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="270" />
+              <mxPoint x="715" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-10" value="5" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-17" target="0bGFih33v-Uv6MeVHuMe-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-17" value="Cosmer Rang S,SS,SSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-18" target="0bGFih33v-Uv6MeVHuMe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-18" value="Cosmer Rang S,SS,SSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="255" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-19" target="0bGFih33v-Uv6MeVHuMe-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-19" value="Cosmer Rang S,SS,SSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-20" target="0bGFih33v-Uv6MeVHuMe-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-20" value="Cosmer Rang S,SS,SSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-32" value="&lt;b&gt;Membres du MLC:&lt;/b&gt;&lt;br&gt;Constitue l&#39;élite de l&#39;ordre des Cosmers, 10 places sont réservées pour ce niveau.&lt;br&gt;En plus d&#39;être au sommet de la pyramide de puissance de l&#39;ordre, des responsabilités viennent avec la fonction.&lt;br&gt;Le MLC est divisé en 5 duos, trié par puissance, chacun se voit assigner une région dont il sera responsable au nom de l&#39;ordre.&lt;br&gt;Les membres du MLC ont aussi sous leur responsabilité les Cosmer de rang S-tier présent sur leur région, réquisitionnables pour des missions de grosse envergure." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;align=left;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="20" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-34" target="0bGFih33v-Uv6MeVHuMe-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="380" />
+              <mxPoint x="1150" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-34" value="&lt;b&gt;Cosmer rang S-Tier:&lt;/b&gt;&lt;br&gt;Cette catégorie de Cosmer est celle qui se fait le plus de compétition. La rivalité en dehors des missions est grande et chacun veut prouver qu&#39;il est un guerrier d&#39;exception.&lt;br&gt;Les mission en partenariat avec le MLC sont autant périlleuses que prestigieuses, malheureusement des pertes sont souvent à déclarer." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;align=left;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="320" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-35" target="0bGFih33v-Uv6MeVHuMe-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="580" />
+              <mxPoint x="1150" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-35" value="&lt;b&gt;Cosmer Rang A:&lt;/b&gt;&lt;br&gt;Les Cosmers de rang A ont fait leur preuves dans l&#39;ordre. Leur puissance n&#39;est plus à prouver néanmoins l&#39;écart de niveau est grand avec les rangs S-tier. Beaucoup de Cosmer restent Rang A pour garder leur indépendance et ne pas faire de missions avec le MLC (parfois politisées)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=left;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="530" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-36" target="0bGFih33v-Uv6MeVHuMe-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="690" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="770" />
+              <mxPoint x="1150" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-36" value="&lt;b&gt;Cosmer Rang B,C,D:&lt;/b&gt;&lt;br&gt;La grande majorité des Cosmers se retrouve dans ces catégories. D&#39;ailleurs la large majorité des Cosmer n&#39;en sortent jamais. Ce sont des soldats du quotidien non sans bravoure mais sans sensationnel.&lt;br&gt;C&#39;est une étape importante pour un Cosmer de faire partie du quotidien des peuples, et de protéger les populations des défis de l&#39;altération.Dans la carrière d&#39;un Cosmer c&#39;est généralement durant cette période qu&#39;il en apprend le plus sur le monde et sur lui même.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;align=left;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="690" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bGFih33v-Uv6MeVHuMe-37" target="0bGFih33v-Uv6MeVHuMe-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="1030" />
+              <mxPoint x="1150" y="771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bGFih33v-Uv6MeVHuMe-37" value="&lt;b&gt;Nouvelles recrues cosmer Rang E,F,G:&lt;/b&gt;&lt;br&gt;L&#39;examen des Cosmer a lieu tous les 5 ans pour intégrer de nouvelles recrues. Ce processus va challenger les participants lors d&#39;épreuves &amp;amp; d&#39;affrontements. Suite à un classement interne à la nouvelle promotion, un rang est attribué aux nouvelles recrues en fonction de leurs performances lors des épreuves &amp;amp; des affrontements. lors de la première année d&#39;exercice, les rangs changent relativement vite&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;align=left;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="950" width="290" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
